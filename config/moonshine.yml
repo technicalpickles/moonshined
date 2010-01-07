@@ -3,7 +3,7 @@
 :user: ubuntu
 #:time_zone: UTC
 :deploy_to: /srv/moonshined
-:domain: "ec2-75-101-199-124.compute-1.amazonaws.com"
+:domain: "ec2-174-129-65-130.compute-1.amazonaws.com"
 #:domain_aliases:
 #  - assets1.yourapp.com
 #  - assets2.yourapp.com
