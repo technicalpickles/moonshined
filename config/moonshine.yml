@@ -1,6 +1,6 @@
 :ruby: ree
 :application: moonshined
-:user: ubuntu
+:user: root
 #:time_zone: UTC
 :deploy_to: /srv/moonshined
 :domain: "ec2-174-129-86-89.compute-1.amazonaws.com"
